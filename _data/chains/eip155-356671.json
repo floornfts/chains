@@ -13,7 +13,7 @@
   "networkId": 356671,
   "explorers": [
     {
-      "name": "Floor Scout",
+      "name": "Floor Explorer",
       "url": "https://explorer.testnet.floor.lol"
     }
   ]
