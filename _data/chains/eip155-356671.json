@@ -1,7 +1,7 @@
 {
   "name": "Floor Testnet",
   "chain": "ETH",
-  "rpc": ["https://testnet.floor.lol"],
+  "rpc": ["https://geth.testnet.floor.lol"],
   "nativeCurrency": {
     "name": "Floor Ether",
     "symbol": "ETH",
